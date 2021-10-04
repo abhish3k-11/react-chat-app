@@ -1,3 +1,10 @@
+# Check this react app here 
+
+[React chat app](https://chatuz.herokuapp.com/)
+Login Functionality remains to be added. 
+Login will come shortly.
+Till then, enjoy it!!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
